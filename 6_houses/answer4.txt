@@ -1,0 +1,36 @@
+House 0 -> House 1 :  1
+House 0 -> House 2 :  10
+House 0 -> House 3 :  17
+House 0 -> House 4 :  23
+House 0 -> House 5 :  25
+House 1 -> House 0 :  26
+House 1 -> House 2 :  9
+House 1 -> House 3 :  16
+House 1 -> House 4 :  22
+House 1 -> House 5 :  24
+House 2 -> House 0 :  17
+House 2 -> House 1 :  18
+House 2 -> House 3 :  7
+House 2 -> House 4 :  13
+House 2 -> House 5 :  15
+House 3 -> House 0 :  10
+House 3 -> House 1 :  11
+House 3 -> House 2 :  20
+House 3 -> House 4 :  6
+House 3 -> House 5 :  8
+House 4 -> House 0 :  4
+House 4 -> House 1 :  5
+House 4 -> House 2 :  14
+House 4 -> House 3 :  21
+House 4 -> House 5 :  2
+House 5 -> House 0 :  2
+House 5 -> House 1 :  3
+House 5 -> House 2 :  12
+House 5 -> House 3 :  19
+House 5 -> House 4 :  25
+[ { label: 'House 0', nextDistance: 1 },
+  { label: 'House 1', nextDistance: 9 },
+  { label: 'House 2', nextDistance: 7 },
+  { label: 'House 3', nextDistance: 6 },
+  { label: 'House 4', nextDistance: 2 },
+  { label: 'House 5', nextDistance: 2 } ]
